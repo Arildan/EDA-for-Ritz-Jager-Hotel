@@ -1,5 +1,6 @@
 # EDA-for-Ritz-Jager-Hotel
 Data analysis is defined as a process of cleaning, transforming, visualizing data to discover useful information for business decision-making. The purpose of Data Analysis is to extract useful information from data and taking the decision based upon the data analysis. In python we use pandas packages to do some data analysis. The name Pandas is derived from panel data. Panel data comprises of observations over multiple time periods for the same individuals. 
+
 Exploratory Data Analysis (EDA) refers to the critical process of performing initial investigations on data so as to discover patterns, to spot anomalies, to check assumption with the help of of statistical summary and graphical representations. There are 3 parts of EDA: cleansing, defining questions, visualization.
 
 •	Cleansing
